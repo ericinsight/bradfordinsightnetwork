@@ -11,4 +11,4 @@
 *.suo
 *.userosscache
 *.sln.docstates
-gitdir/
+.gitdir/
